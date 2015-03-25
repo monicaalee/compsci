@@ -1,7 +1,1 @@
-import numpy
-
-x = numpy.pi
-
-print x
-
-print x*2
+import eateggs eatbreakfast
